@@ -8,6 +8,8 @@
 [![Design Patterns](https://img.shields.io/badge/Architecture-GoF_Patterns-green)](#-patrones-de-diseño-gof-implementados)
 [![Tests](https://img.shields.io/badge/Tests-Passing_100%25-brightgreen)](#-suite-de-pruebas-y-calidad-de-software)
 
+NOTA: Proyecto de la asignatura Desarrollo de Software (UGR), desarrollado en equipo y subido desde PRADO; el historial de commits refleja la subida, no el desarrollo.
+
 Plataforma móvil y backend distribuido orientados a la gestión y reserva de maquinaria pesada, tractores agrícolas y accesorios de obra o labranza. Diseñada bajo principios de **Ingeniería del Software** y **Programación Orientada a Objetos (POO)**, la aplicación implementa de forma práctica tres patrones de diseño estructurales y de comportamiento del catálogo Gang of Four (**Decorator**, **Composite** y **Strategy**), desacoplando la lógica de negocio de la interfaz de usuario e integrando un control estricto de concurrencia y disponibilidad en tiempo real.
 
 ---
