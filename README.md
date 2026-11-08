@@ -18,9 +18,9 @@ Este proyecto fue concebido, diseñado e implementado en colaboración por un **
 
 | Desarrollador | Rol Principal | Contribuciones Clave |
 | :--- | :--- | :--- |
-| **Marcos Marín** ([@marcosmariness](https://github.com/marcosmariness)) | **Software Architect & Full-Stack Developer** | • Diseño e implementación de los patrones de diseño GoF (**Decorator**, **Composite**, **Strategy**) en Flutter.<br>• Integración de la lógica de negocio en el backend Rails (cálculo dinámico de precios y validación de disponibilidad).<br>• Detección y prevención de colisión de fechas en reservas (HTTP 409 Conflict).<br>• Desarrollo de la suite de pruebas unitarias automatizadas para los patrones de diseño. |
-| **Co-Desarrollador 1** | **Backend Specialist & Data Modeler** | • Modelado del esquema relacional en ActiveRecord y migraciones.<br>• Implementación de controladores RESTful (CRUD de Artículos y Sesiones).<br>• Creación de fixtures y pruebas de integración para endpoints de la API. |
-| **Co-Desarrollador 2** | **Frontend Developer & UX/UI Designer** | • Maquetación de interfaces móviles con Flutter Material 3.<br>• Flujos de navegación y autenticación condicional por roles (Cliente vs. Gestor).<br>• Vistas de catálogo interactivo, filtros de ocupación y gestión del carrito. |
+| **Marcos García**  | **Software Architect & Full-Stack Developer** | • Diseño e implementación de los patrones de diseño GoF (**Decorator**, **Composite**, **Strategy**) en Flutter.<br>• Integración de la lógica de negocio en el backend Rails (cálculo dinámico de precios y validación de disponibilidad).<br>• Detección y prevención de colisión de fechas en reservas (HTTP 409 Conflict).<br>• Desarrollo de la suite de pruebas unitarias automatizadas para los patrones de diseño. |
+| **Javier Miñan** | **Backend Specialist & Data Modeler** | • Modelado del esquema relacional en ActiveRecord y migraciones.<br>• Implementación de controladores RESTful (CRUD de Artículos y Sesiones).<br>• Creación de fixtures y pruebas de integración para endpoints de la API. |
+| **German Delgado** | **Frontend Developer & UX/UI Designer** | • Maquetación de interfaces móviles con Flutter Material 3.<br>• Flujos de navegación y autenticación condicional por roles (Cliente vs. Gestor).<br>• Vistas de catálogo interactivo, filtros de ocupación y gestión del carrito. |
 
 ---
 
