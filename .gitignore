@@ -1,0 +1,58 @@
+# ==========================================
+# Flutter / Dart
+# ==========================================
+**/android/.gradle/
+**/android/build/
+**/android/local.properties
+**/android/captures/
+**/android/.cxx/
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/ios/Flutter/ephemeral/
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/linux/flutter/ephemeral/
+**/windows/flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+**/build/
+**/coverage/
+**/app.*.symbols
+**/app.*.map.json
+
+# ==========================================
+# Ruby on Rails
+# ==========================================
+**/.bundle/
+**/log/*.log
+**/tmp/*
+!**/log/.keep
+!**/tmp/.keep
+**/storage/*
+!**/storage/.keep
+**/config/master.key
+**/.env*
+!**/.env*.erb
+
+# ==========================================
+# IDE & System
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*~
+*.iml
+.idea/
+.vscode/

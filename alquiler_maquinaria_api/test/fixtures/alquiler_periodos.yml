@@ -1,0 +1,5 @@
+# Un alquiler pre-existente para probar la validación de solapamiento
+reserva_tractor:
+  articulo: tractor
+  fecha_inicio: 2026-06-01
+  fecha_fin: 2026-06-05

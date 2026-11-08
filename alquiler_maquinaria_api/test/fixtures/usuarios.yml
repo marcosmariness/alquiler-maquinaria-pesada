@@ -1,0 +1,10 @@
+# Fixtures de usuarios con password_digest encriptada para las pruebas
+admin:
+  email: admin@maquinaria.com
+  password_digest: <%= BCrypt::Password.create('admin123') %>
+  rol: administrador
+
+cliente:
+  email: user@gmail.com
+  password_digest: <%= BCrypt::Password.create('user123') %>
+  rol: cliente

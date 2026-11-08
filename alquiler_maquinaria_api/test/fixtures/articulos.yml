@@ -1,0 +1,15 @@
+# Fixtures de artículos de prueba
+tractor:
+  nombre: "John Deere 6R 150"
+  categoria: "Tractor"
+  precio_base_dia: 150.0
+
+maquina:
+  nombre: "Excavadora Caterpillar 320"
+  categoria: "Maquina"
+  precio_base_dia: 250.0
+
+accesorio:
+  nombre: "Arado de Tres Surcos"
+  categoria: "AccesorioSuelto"
+  precio_base_dia: 25.0
